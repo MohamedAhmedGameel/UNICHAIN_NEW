@@ -9,15 +9,15 @@ Runs on **Windows 11 + WSL2**
 
 | File | What's in it |
 |------|-------------|
-| [windows-wsl-setup.md](./windows-wsl-setup.md) | Copy project from Windows into WSL2, install prerequisites |
-| [start-from-scratch.md](./start-from-scratch.md) | **First time only** — generate crypto, create channel, deploy chaincode |
-| [start-second.md](./start-second.md) | **Every time after** — start existing network and reconnect |
-| [architecture.md](./architecture.md) | Network topology, chaincode internals, state key schema |
-| [contract-reference.md](./contract-reference.md) | Every callable function with exact commands |
-| [rbac.md](./rbac.md) | Roles, permissions, identity, how to assign access |
-| [redeploy.md](./redeploy.md) | Upgrade chaincode after code changes |
-| [debugging.md](./debugging.md) | Read logs, inspect state, diagnose failures |
-| [errors.md](./errors.md) | Every known error and exact fix |
+| [windows-wsl-setup.md](./docs/windows-wsl-setup.md) | Copy project from Windows into WSL2, install prerequisites |
+| [start-from-scratch.md](./docs/start-from-scratch.md) | **First time only** — generate crypto, create channel, deploy chaincode |
+| [start-second.md](./docs/start-second.md) | **Every time after** — start existing network and reconnect |
+| [architecture.md](./docs/architecture.md) | Network topology, chaincode internals, state key schema |
+| [contract-reference.md](./docs/contract-reference.md) | Every callable function with exact commands |
+| [rbac.md](./docs/rbac.md) | Roles, permissions, identity, how to assign access |
+| [redeploy.md](./docs/contract-reference.mdredeploy.md) | Upgrade chaincode after code changes |
+| [debugging.md](./docs/debugging.md) | Read logs, inspect state, diagnose failures |
+| [errors.md](./docs/errors.md) | Every known error and exact fix |
 
 ---
 
